@@ -7,4 +7,9 @@ public class Methods {
 	{
 		driver.manage().window().maximize();
 	}
+	//The demo method 2
+	public void minimizeWindow(WebDriver driver)
+	{
+		driver.manage().window().maximize();
+	}
 }
